@@ -19,6 +19,10 @@ The program includes couple of interesting coding techniques:
 Feel free to use and modify the experience.
 
 Plastic'2018
+
 Michal Staniszewski - code, design, art
+
 Krzysztof Garbaczewski - concept
+
 Bartosz Zaskórski - music & sfx
+
