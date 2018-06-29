@@ -1,5 +1,8 @@
 # LocusSolus
 Locus Solus is an interactive VR installation featured at CSW Warsaw in early 2018.
+
+![Locus Solus](https://github.com/bonzajplc/LocusSolus/raw/master/GIF/LocusSolus.gif)
+
 It contains recorded point clouds of people that were captured during the exhibition in the following process:
 
 1. person was asked to see the experience
